@@ -30,19 +30,6 @@ You can use the TOTEM without a case, but [here](/case/) you can find one I made
 
 ***
 
-## BUILD GUIDE
-  
-The build guide for the TOTEM can be found [here](/docs/buildguide.md).
-
-***
-
-## FIRMWARE
-
-[QMK config](https://github.com/GEIGEIGEIST/qmk-config-totem) for the TOTEM (wired using the XIAO RP2040)\
-[ZMK config](https://github.com/GEIGEIGEIST/zmk-config-totem) for the TOTEM (wireless using the XIAO BLE)
-
-***
-
 ## PHOTOS
 
 This is the TOTEM in a black resin case
@@ -50,12 +37,6 @@ This is the TOTEM in a black resin case
 ![TOTEM black resin](/docs/images/TOTEM_black_perspective.jpg)\
 ![TOTEM black resin](/docs/images/TOTEM_black_top.jpg)\
 ![TOTEM black resin](/docs/images/TOTEM_black_bottom.jpg)
-
-***
-
-## BUY 
-
-You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (unfortunately Europe only for now)
 
 ***
 
